@@ -5,7 +5,7 @@ public class Conta {
 	private double saldo;
 	private int numero;
 	private int agencia;
-    //Construtor
+    //Metodo Construtor
 public Conta(String titular, double saldo, int numero, int agencia ){
 	this.titular=titular;
 	this.saldo=saldo;
